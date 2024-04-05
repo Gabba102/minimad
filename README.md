@@ -1,0 +1,2 @@
+# minimad
+minimad
